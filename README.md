@@ -10,7 +10,7 @@ Coding Bootcamp assignment 3
      under  three combined strategies  that  implement  all  the  possible combinations as such:
        1. Color, Size and Fabric with Credit / Debit Cards
        2. Color, Sizeand Fabric with Money / Bank Transfer
-       3. Color, Size and Fabri cwith Cash
+       3. Color, Size and Fabric with Cash
 
 * I added the ability to buy more T-shirts and in the end display the payment mmethod 
 * I used try except methods to 'catch' errors and display appropriate messages. On error
